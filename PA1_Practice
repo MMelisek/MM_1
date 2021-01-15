@@ -1,3 +1,6 @@
+git status
+
+
 function DivFn(nx, dx, BC)
 global np Em DnM MunM divFn
 
